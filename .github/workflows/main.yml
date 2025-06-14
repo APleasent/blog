@@ -30,7 +30,7 @@ jobs:
         env:
           SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
           SSH_HOST: "117.72.122.177"
-          SSH_USERNAME: ${{ secrets.SSH_USERNAME }}
+          SSH_USERNAME: "root"
           SSH_PASSWORD: ${{ secrets.SSH_PASSWORD }}
           REMOTE_PATH: "/dev-ops/blog/dev-ops/nginx/html"
         run: |
