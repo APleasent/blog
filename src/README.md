@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 主页
-heroImage: /hero.svg
+heroImage: /logo.svg
 bgImageStyle:
   background-attachment: fixed
 heroText: 小羊同学@第二大脑
