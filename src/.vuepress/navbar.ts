@@ -5,11 +5,20 @@ export default navbar([
   {
     text: "Python",
     icon: "python",
-    // link: "/md/python/",
     children: [
       {
         text: "Python 基础",
         link: "/md/python/base/0. Anaconda 的卸载、重装.md",
+      }
+    ]
+  },
+  {
+    text: "面向对象",
+    icon: "object",
+    children: [
+      {
+        text: "设计模式（Java版）",
+        link: "/md/design-pattern/0.设计模式总结.md"
       }
     ]
   },
