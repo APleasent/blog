@@ -12,7 +12,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/logo.svg",
+  // logo: "/logo.svg",
 
   repo: "APleasent/blog",
 
@@ -24,7 +24,7 @@ export default hopeTheme({
   // sidebar
   sidebar,
 
-  footer: "我的微信：yy16671910915",
+  footer: "",
 
   displayFooter: true,
 

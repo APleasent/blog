@@ -1,5 +1,5 @@
 ---
-title: 个人简历
+title: 关于我
 index: false
 icon: laptop-code
 category:
