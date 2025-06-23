@@ -1,8 +1,7 @@
 export const pagesRoutes = [
   ["v-8daa1a0e","/",{"y":"h","t":"主页","i":"home"},["/README.md"]],
   ["v-2e3eac9e","/slides.html",{"y":"s","t":"幻灯片页","i":"person-chalkboard"},[":md"]],
-  ["v-1d59d0e6","/md/resume.html",{"y":"a","t":"个人简历","i":"laptop-code","I":0},[":md"]],
-  ["v-7c27fd02","/md/dev-log/",{"y":"a","t":"开发日志","i":"laptop-code"},["/md/dev-log/README.md"]],
+  ["v-104a0afc","/md/about-me.html",{"y":"a","t":"关于我","i":"laptop-code","I":0},[":md"]],
   ["v-49312a44","/md/dev-log/day01.html",{"y":"a","t":"Day01","i":"laptop-code","I":0},[":md"]],
   ["v-45c77906","/md/dev-log/day02.html",{"y":"a","t":"Day02","i":"laptop-code","I":0},[":md"]],
   ["v-425dc7c8","/md/dev-log/day03.html",{"y":"a","t":"Day03","i":"laptop-code","I":0},[":md"]],
@@ -13,6 +12,10 @@ export const pagesRoutes = [
   ["v-c97ab98e","/md/dev-log/day09~day10.html",{"y":"a","t":"Day09 ~ Day10","i":"laptop-code","I":0},[":md"]],
   ["v-104da61f","/md/dev-log/day11.html",{"y":"a","t":"Day011","i":"laptop-code","I":0},[":md"]],
   ["v-12027ebe","/md/dev-log/day12.html",{"y":"a","t":"Day012","i":"laptop-code","I":0},[":md"]],
+  ["v-7c27fd02","/md/dev-log/",{"y":"a","t":"开发日志","i":"laptop-code"},["/md/dev-log/README.md"]],
+  ["v-bcdbe962","/md/python/base/0.%20Anaconda%20%E7%9A%84%E5%8D%B8%E8%BD%BD%E3%80%81%E9%87%8D%E8%A3%85.html",{"y":"a","t":"0. Anaconda 的卸载与重装指南","I":0},["/md/python/base/0. Anaconda 的卸载、重装.html","/md/python/base/0. Anaconda 的卸载、重装.md",":md"]],
   ["v-3706649a","/404.html",{"y":"p","t":""},[]],
   ["v-2d0aa3df","/md/",{"y":"p","t":"Md"},[]],
+  ["v-34e6fc2c","/md/python/base/",{"y":"p","t":"Base"},[]],
+  ["v-6b9403d8","/md/python/",{"y":"p","t":"Python"},[]],
 ]
