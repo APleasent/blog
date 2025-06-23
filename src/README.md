@@ -8,7 +8,7 @@ bgImageStyle:
 heroText: 小羊同学@第二大脑
 tagline: 预买桂花同载酒，终不似，少年游
 actions:
-  - text: 开始阅读 →·
+  - text: 开始阅读 →
     link: ./md/
     type: primary
 
@@ -44,8 +44,8 @@ highlights:
         details: 23年10月，通过对业务项目开发中的学习，对同类共性功能的重复开发，凝练成通用的服务治理组件。
         link: https://theme-hope.vuejs.press/zh/guide/markdown/tabs.html
 
-# copyright: false
-# footer: |-
-#   <div class="content"><a href="http://beian.miit.gov.cn" target="_blank">京ICP备1903****号</a> | MIT 协议, 版权所有 © 2023 你的名字，All rights reserved.</div>
+copyright: false
+footer: |-
+  <div class="content"><a href="http://beian.miit.gov.cn" target="_blank">湘ICP备2025126842</a> | MIT 协议 © 2025 小羊，All rights reserved.</div>
 --- 
 
