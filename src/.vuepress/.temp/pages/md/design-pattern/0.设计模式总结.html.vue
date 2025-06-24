@@ -34,7 +34,7 @@
 <tr>
 <td style="text-align:center">1</td>
 <td style="text-align:center">工厂方法</td>
-<td style="text-align:center"><img src="https://note.youdao.com/yws/res/9375/WEBRESOURCE1a210e09e71fd4faa4f3c76481c17b3c" alt="image" loading="lazy"></td>
+<td style="text-align:center"><img src="/img/工厂方法.png" alt="image" loading="lazy"></td>
 <td style="text-align:center">手机是一个抽象产品，而小米，华为，苹果是具体的产品实现，而不同牌的手机在各自的生产厂家中生产</td>
 <td style="text-align:center">定义一个创建对象的接口，让子类自己决定实例化哪一个工厂类，使创建过程延迟到子类进行</td>
 </tr>
