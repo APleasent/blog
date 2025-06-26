@@ -7,7 +7,7 @@ export default defineUserConfig({
 
   lang: "zh-CN",
   title: "小羊博客",
-  description: "关于我自己的学习成长经历",
+  description: "保持成长",
 
   theme,
 
