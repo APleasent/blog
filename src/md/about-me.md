@@ -15,7 +15,7 @@ category:
 - 邮箱
 - 毕业时间 2023-06
 - 工作时间 2022-08
-- Github：https://github.com/fuzhengwei
+- Github：https://github.com/xiaosheep
 - 开源项目：[vo2dto](https://bugstack.cn/md/product/idea-plugin/vo2dto.html) - IDEA Plugin 自动转换对象插件，5.4k 下载使用
 
 ## 毕业院校
