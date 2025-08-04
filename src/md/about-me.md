@@ -11,9 +11,9 @@ category:
 ## 个人信息
 
 - 姓名 小杨
-- 电话
+- 电话 
 - 邮箱
-- 毕业时间
+- 毕业时间 2023-06
 - 工作时间
 - Github：https://github.com/fuzhengwei
 - 开源项目：[vo2dto](https://bugstack.cn/md/product/idea-plugin/vo2dto.html) - IDEA Plugin 自动转换对象插件，5.4k 下载使用
